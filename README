@@ -1,0 +1,3 @@
+The project is a port of my SetVision project, that was ariginally written in C# with EmguCV, to Python, possibly using SimpleCV.
+
+The project helps you in a game of Set by finding in a few seconds which cards make a set.
